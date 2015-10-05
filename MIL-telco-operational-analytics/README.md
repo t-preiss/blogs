@@ -2,8 +2,8 @@
 
 * [Overview](#overview)
 * [Use cases](#use-cases)
-    * [User interactions](#user-interactions-page-transitions) (Page Transitions, Dwell Time)
-    * [Business metrics](#line-of-business-metrics-plan-change-type) (Plan Change Types, Plan Change Cost, Average Price per Accepted Offer)
+    * [User interactions](#user-interactions) (Page Transitions, Dwell Time)
+    * [Business metrics](#line-of-business-metrics) (Plan Change Types, Plan Change Cost, Average Price per Accepted Offer)
 * [Conclusion](#conclusion)
 
 #### Overview
